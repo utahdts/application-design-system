@@ -1,19 +1,21 @@
 # Application Development Design System
 
-Developing applications is an art form. Every literary author and code developer has their own style. There is no right way to create art. Not only is there not a silver bullet correct methodology, but the popular opinion on tooling changes rapidly, oftentimes circling back on itself. 
+Developing an application is an art form. Every literary author and code developer has their own style. There is no right way to create art. Not only is there not a silver bullet correct tooling, but the popular opinion changes rapidly, oftentimes circling back on itself. 
 
 This document contains a checklist of areas of Application Development that should be addressed during the lifetime of an application.
 
-Each team should make deliberate decisions for their application on each topic in this document based on options available, instead of relying on a one-size-fits-all nor its-how-we-have-always-done-it mentality. Teams should develop a common tech stack to their applications to improve maintainability and support, but should not pigeon hole their efforts to long term unwise technical decisions.
+Each team should make deliberate decisions for their application on each topic in this document based on options available, instead of relying on one-size-fits-all nor its-how-we-have-always-done-it mentalities. Teams should develop a common tech stack to their applications to improve maintainability and support. This tech stack must change at a paced and strategic cadence so as to prevent application rot.
 
-The answer to the question "What should we use?" is always "it depends". There are pros and cons to every decision.
+Our product is what our customers think of us. Aged and unmaintained applications with gross technical debt give a bad impression. To increase trust, always put the best foot forward aesthetically and through the use of thought-out technologies.
+
+The answer to the question "What should we use?" is always "it depends". There are pros and cons to every decision. This doesn't mean ignore the decision, but to make an informed decision.
 
 This document is a living document; Its information will grow and change. Please join the community adding input, improving content, and updating outdated content. Use the issue tracker, pull requests, and any other form of communication to help improve this document.
 
 ## Development Team Dynamics
 A development team takes on many roles. No matter if it is a team of 50 developers, or just one, the team must handle producing a functioning result. The most efficient teams are able to address all the aspects of Application development all by themselves. This allows the team to take responsibility for and resolve any situation that arises.
 
-We often see Application Development roles separated into separate groups like a group that deals with infrastructure and another group that deals with webservice code and another group that deals with security. Though these groups can coordinate and produce an end result, it often results in a finger pointing game and slow turn around. The better functioning team has all roles represented and on the hook for the same timelines and deliverables. All the pigs in one basket (see [chickens vs pigs in agile](https://www.visual-paradigm.com/scrum/scrum-pig-and-chicken/)).
+We often see Application Development roles separated into separate groups, like a group that deals with infrastructure and another group that deals with webservice code and another group that deals with security. Though these disparate groups can coordinate and produce an end result, it often results in a finger pointing game and slow turn around. The better functioning team has all roles represented and on the hook for the same timelines and deliverables. All the pigs in one basket (see [chickens vs pigs in agile](https://www.visual-paradigm.com/scrum/scrum-pig-and-chicken/)).
 
 Each role is not necessarily separate people, though the more hats a single person wears, the less focused they can be. Cross-training similar roles among team members can greatly improve team productivity and responsiveness.
 
