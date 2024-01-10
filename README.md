@@ -180,11 +180,11 @@ Some things that can help alleviate framework rot / overload:
 * Cyclical updates that give quick response updates and bring deprecations to the fore-front
 * Updating all the team's products to the same stack when a new stack is adopted so that the team stays in sync
 * Using a decision process to pick new frameworks/languages/tooling
-  * Is it well adopted by the industry (cool new shiny things may not last long)
-  * Is it well documented 
-  * Is it updated regularly
-  * Do you really need it or is there something that already does this
-  * *See a great google document available that details the decision making process*
+  * Is it well adopted by the industry (cool new shiny things may not last long)?
+  * Is it well documented?
+  * Is it updated regularly?
+  * Do you really need it or is there something that already does this?
+  * See [Ryan Thorstensen's Tech Adopt Guide](https://docs.google.com/document/d/1Kr7tcnuRraQyTomTBMr_kh6nYyfL1Qb1U0KC3n6UEhQ/edit?usp=sharing)
 
 ### Knowledge Consultants Contacts
 * DTT [dts_dtt@utah.gov](mailto:dts_dtt@utah.gov)
